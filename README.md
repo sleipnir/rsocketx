@@ -1,4 +1,4 @@
-# Rsocketx
+# RSocketx
 
 RSocket Protocol for Elixir
 
